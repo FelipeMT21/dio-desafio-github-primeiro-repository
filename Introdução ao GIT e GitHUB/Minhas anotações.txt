@@ -1,0 +1,6 @@
+# Comandos Básicos do GIT
+ - dc .. = voltar diretório
+ - dc <nome do diretório> = ir para o diretório
+ - ls = verifica o que está naquela diretório
+ - Ctrl + L = Limpa o git
+ - git status = ver se o git identificou a pasta ou arquivo
